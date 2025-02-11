@@ -1,3 +1,5 @@
+![UPCOMING](logo_large_monochrome_dark.png)
+
 # Upcoming puzzle-horror game "CanYOU?"
 
 > [!IMPORTANT]
